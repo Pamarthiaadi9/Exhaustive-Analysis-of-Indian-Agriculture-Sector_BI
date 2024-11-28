@@ -8,8 +8,11 @@ We aim to create interactive visualizations that reveal trends, patterns, and di
 
 # Project Objectives:
 1.Exploratory Data Analysis on Production of different Crops Over Years
+
 2.Top Crops, Seasons, States , Districts etc.
+
 3.Key Performance Indicator(KPIs)
+
 4.Various Metrics to get deep insights about the business
 
 # Tools Used
